@@ -1,14 +1,14 @@
-layout_spectrum: 0.2674214649014175
-typography_spectrum: 0.5527184633538127
+layout_spectrum: 0.6481078742071986
+typography_spectrum: 0.46105987043119967
 color:
-  brandStrength: 0.3241221779026091
-  lightness: 0.8903141070622951
-  saturation: 0.28048476693220437
-  rhythmicContrast: 0.15152560779824853
+  brandStrength: 0.0823570559732616
+  lightness: 0.9277320590335876
+  saturation: 0.798310459125787
+  rhythmicContrast: 0.7723754830658436
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Grid Space
